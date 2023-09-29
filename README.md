@@ -1,4 +1,5 @@
 FAST Faculty Data Extraction & Analysis
+
 This project involves web scraping data from the websites of three campuses of FAST University (Lahore, Islamabad, and Karachi) to collect information about the faculty members. The collected data is then transformed into structured data frames, concatenated into a single data frame, and analyzed. The primary objectives are to extract faculty details, create a comprehensive dataset, and generate a random sample for analysis.
 
 Step 1: Web Scraping
